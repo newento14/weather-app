@@ -2,7 +2,7 @@ import SunnyIcon from './weather/sunny.svg'
 import CloudyIcon from './weather/cloudy.svg'
 import NightRainIcon from './weather/night-rain.svg'
 import SunnyRainIcon from './weather/sunny-rain.svg'
-import MoonIcon from './weather/moon.svg'
+import NightIcon from './weather/moon.svg'
 import SunnyCloudyIcon from './weather/sunny-cloudy.svg'
 import CloudyWindIcon from './weather/cloudy-wind.svg'
 import SnowIcon from './weather/snow.svg'
@@ -17,7 +17,7 @@ export {
     NightThunderstormIcon,
     NightRainIcon,
     SunnyRainIcon,
-    MoonIcon,
+    NightIcon,
     SunnyCloudyIcon,
     CloudyWindIcon,
     SnowIcon,
